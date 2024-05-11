@@ -1,0 +1,9 @@
+{
+	"name": "TestingADFRepoDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88736ef5-adcb-4555-93b5-e64fce7cc209",
+		"tenantId": "d63d31c3-1cf4-47c9-8aa4-38a03979fa0e"
+	}
+}
